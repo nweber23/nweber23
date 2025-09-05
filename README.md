@@ -75,7 +75,7 @@ Check out my repositories for additional work in:
 
 When I'm not debugging or diving into documentation, you'll find me:
 
-⚽️ **Football Fanatic** - Proud **FC Bayern Munich** supporter
+⚽️ **Football Fanatic** - Proud **FC Bayern Munich** supporter/member
 
 🏎️ **Automotive Enthusiast** - Geeking out about cars and automotive tech  
 
