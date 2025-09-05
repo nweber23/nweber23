@@ -90,7 +90,7 @@ Hobbies like football and cars inspire **strategy, focus, and precision** in my 
 ---
 
 <div align="center">
-💡 *"Every expert was once a beginner. Every pro was once an amateur."*
+💡 "Every expert was once a beginner. Every pro was once an amateur."
 
 **Thanks for visiting!** ⭐ Feel free to explore my repositories and reach out if you want to collaborate.
 </div>
