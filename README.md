@@ -27,7 +27,7 @@ I’m currently a student at **42 Heilbronn**, passionate about building, explor
 ## ⚽️ Interests
 
 Outside of coding, you’ll find me:
-- WWatching or playing football — proud supporter of **FC Bayern Munich**
+- Watching or playing football — proud supporter of **FC Bayern Munich**
 - Geeking out about cars and automotive tech
 
 ---
