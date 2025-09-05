@@ -4,10 +4,12 @@
 
 ## 🧑‍💻 About Me
 
-Currently diving deep into the world of systems programming at **42 Heilbronn** 🏫  
-I'm passionate about understanding how things work under the hood and building efficient, elegant solutions to complex problems.
+Currently diving deep into **systems programming at 42 Heilbronn** 🏫, where I explore low-level computing and optimize complex algorithms.  
+I'm passionate about understanding how things work under the hood and building efficient, elegant solutions to challenging problems.
 
 > *"The best way to learn is to build, break, and rebuild."*
+
+I’m always looking to contribute to **open-source projects** and collaborate with fellow developers who love systems, performance, and concurrency.  
 
 ---
 
@@ -15,15 +17,20 @@ I'm passionate about understanding how things work under the hood and building e
 
 ### Languages & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Currently Exploring
-- 🔍 **Advanced C++** concepts and modern standards
+- 🔍 **Advanced C++** concepts and modern standards  
 - 🧵 **Concurrent programming** patterns and best practices  
-- ⚡ **Performance optimization** techniques
-- 🏗️ **System architecture** and design patterns
+- ⚡ **Performance optimization** techniques  
+- 🏗️ **System architecture** and design patterns  
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical)
+
 
 ---
 
@@ -36,7 +43,7 @@ I'm passionate about understanding how things work under the hood and building e
 ### 🌀 [fract-ol](https://github.com/nweber23/fract-ol)
 Interactive fractal visualizer with real-time rendering
 - **Tech:** C, Graphics Programming
-- **Highlights:** Mathematical precision, Smooth animations
+- **Highlights:** Mathematical precision, smooth animations, achieves **60+ FPS** rendering
 
 </td>
 <td width="50%">
@@ -44,7 +51,7 @@ Interactive fractal visualizer with real-time rendering
 ### 🧪 [libunit](https://github.com/nweber23/libunit)  
 Minimalist unit testing framework for C
 - **Tech:** C, Testing Framework
-- **Highlights:** Lightweight, Easy integration
+- **Highlights:** Lightweight, easy integration, supports **automated testing of multiple projects**
 
 </td>
 </tr>
@@ -54,16 +61,16 @@ Minimalist unit testing framework for C
 ### 🍽️ [philo](https://github.com/nweber23/philo)
 Dining Philosophers problem implementation
 - **Tech:** C, Multithreading
-- **Highlights:** Concurrency, Synchronization
+- **Highlights:** Demonstrates concurrency and synchronization, safely handles **100+ threads**
 
 </td>
 <td width="50%">
 
 ### 📊 More Projects
 Check out my repositories for additional work in:
-- Algorithms & Data Structures
+- Algorithms & Data Structures  
 - Network Programming  
-- System Utilities
+- System Utilities  
 
 </td>
 </tr>
@@ -75,16 +82,15 @@ Check out my repositories for additional work in:
 
 When I'm not debugging or diving into documentation, you'll find me:
 
-⚽️ **Football Fanatic** - Proud **FC Bayern Munich** supporter/member
+- ⚽️ **Football Fanatic** – Proud **FC Bayern Munich** supporter and **member**  
+- 🏎️ **Automotive Enthusiast** – Exploring the latest in automotive technology  
 
-🏎️ **Automotive Enthusiast** - Geeking out about cars and automotive tech  
+Hobbies like football and cars inspire **strategy, focus, and precision** in my coding projects.  
 
 ---
 
 <div align="center">
-  
 💡 *"Every expert was once a beginner. Every pro was once an amateur."*
 
-**Thanks for visiting!** ⭐ Feel free to explore my repositories and don't hesitate to reach out!
-
+**Thanks for visiting!** ⭐ Feel free to explore my repositories and reach out if you want to collaborate.
 </div>
