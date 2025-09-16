@@ -9,7 +9,7 @@ I'm passionate about understanding how things work under the hood and building e
 
 > *"The best way to learn is to build, break, and rebuild."*
 
-I’m always looking to contribute to **open-source projects** and collaborate with fellow developers who love systems, performance, and concurrency.  
+I'm always looking to contribute to **open-source projects** and collaborate with fellow developers who love systems, performance, and concurrency.  
 
 ---
 
@@ -31,7 +31,6 @@ I’m always looking to contribute to **open-source projects** and collaborate w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical)
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -43,7 +42,7 @@ I’m always looking to contribute to **open-source projects** and collaborate w
 ### 🌀 [fract-ol](https://github.com/nweber23/fract-ol)
 Interactive fractal visualizer with real-time rendering
 - **Tech:** C, Graphics Programming
-- **Highlights:** Mathematical precision, smooth animations, achieves **60+ FPS** rendering
+- **Highlights:** Mathematical precision, smooth animations, **interactive zoom and color customization**
 
 </td>
 <td width="50%">
@@ -58,10 +57,10 @@ Minimalist unit testing framework for C
 <tr>
 <td width="50%">
 
-### 🍽️ [philo](https://github.com/nweber23/philo)
-Dining Philosophers problem implementation
-- **Tech:** C, Multithreading
-- **Highlights:** Demonstrates concurrency and synchronization, safely handles **100+ threads**
+### 🐚 [minishell](https://github.com/nweber23/minishell)
+Unix shell implementation with advanced features
+- **Tech:** C, System Programming
+- **Highlights:** Custom parser, built-in commands, supports **pipes, redirections, and environment variables**
 
 </td>
 <td width="50%">
