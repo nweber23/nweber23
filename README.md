@@ -107,5 +107,5 @@ Hobbies like football and cars inspire **strategy, focus, and precision** in my 
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/nweber23/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=nweber23&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
