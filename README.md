@@ -37,9 +37,15 @@ I'm always looking to contribute to **open-source projects** and collaborate wit
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical)
 
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nweber23&theme=github-dark)
+
 ---
 
 ## 🚀 Featured Projects
+
+> 💡 **Check out my pinned repositories below for my best work!**
 
 <table>
 <tr>
@@ -98,4 +104,8 @@ Hobbies like football and cars inspire **strategy, focus, and precision** in my 
 💡 "Every expert was once a beginner. Every pro was once an amateur."
 
 **Thanks for visiting!** ⭐ Feel free to explore my repositories and reach out if you want to collaborate.
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/nweber23/count.svg)
 </div>
