@@ -39,7 +39,6 @@ I'm always looking to contribute to **open-source projects** and collaborate wit
 - 🏗️ **System architecture** and design patterns
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=nweber23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
 
 ### 📈 Contribution Activity
