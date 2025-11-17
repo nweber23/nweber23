@@ -1,4 +1,12 @@
 # Hey there! 👋 I'm Niklas
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niklasweber610@gmail.com)
+[![42 Profile](https://img.shields.io/badge/42-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/nweber)
+
+</div>
+
 ---
 ## 🧑‍💻 About Me
 Currently diving deep into **systems programming at 42 Heilbronn** 🏫, where I explore low-level computing and optimize complex algorithms.  
@@ -7,25 +15,35 @@ I'm passionate about understanding how things work under the hood and building e
 I'm always looking to contribute to **open-source projects** and collaborate with fellow developers who love systems, performance, and concurrency.  
 ---
 ## 🛠️ Tech Arsenal
-### Languages & Technologies
+### Core Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web & Modern Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
 ### Currently Exploring
 - 🔍 **Advanced C++** concepts and modern standards  
 - 🧵 **Concurrent programming** patterns and best practices  
 - ⚡ **Performance optimization** techniques  
-- 🏗️ **System architecture** and design patterns  
+- 🏗️ **System architecture** and design patterns
+
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=nweber23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
+
 ### 📈 Contribution Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nweber23&theme=radical)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nweber23&theme=github-dark)
 ---
 ## 🚀 Featured Projects
