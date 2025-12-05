@@ -20,6 +20,7 @@ I'm always looking to contribute to **open-source projects** and collaborate wit
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Web & Modern Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,8 +34,8 @@ I'm always looking to contribute to **open-source projects** and collaborate wit
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Currently Exploring
-- 🔍 **Advanced C++** concepts and modern standards  
-- 🧵 **Concurrent programming** patterns and best practices  
+- 🔍 **Go** concurrency patterns and best practices  
+- 🧵 **Concurrent programming** and goroutines  
 - ⚡ **Performance optimization** techniques  
 - 🏗️ **System architecture** and design patterns
 
