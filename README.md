@@ -38,9 +38,6 @@ I'm always looking to contribute to **open-source projects** and collaborate wit
 - ⚡ **Performance optimization** techniques  
 - 🏗️ **System architecture** and design patterns
 
-### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
-
 ### 📈 Contribution Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nweber23&theme=radical)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nweber23&theme=github-dark)
