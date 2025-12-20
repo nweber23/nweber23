@@ -15,32 +15,40 @@ I'm passionate about understanding how things work under the hood and building e
 I'm always looking to contribute to **open-source projects** and collaborate with fellow developers who love systems, performance, and concurrency.  
 ---
 ## 🛠️ Tech Arsenal
-### Core Languages
+
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Web & Modern Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Currently Exploring
-- 🔍 **Go** concurrency patterns and best practices  
-- 🧵 **Concurrent programming** and goroutines  
-- ⚡ **Performance optimization** techniques  
-- 🏗️ **System architecture** and design patterns
+- 🔍 **Go** concurrency patterns and distributed systems
+- 🧵 **Concurrent programming** with goroutines and channels
+- ⚡ **Performance optimization** and profiling techniques
+- 🏗️ **System architecture** and scalable design patterns
+- 🗄️ **Database optimization** and caching strategies
 
 ### 📈 Contribution Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nweber23&theme=radical)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nweber23&theme=github-dark)
 ---
 ## 🚀 Featured Projects
