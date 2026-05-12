@@ -2,7 +2,7 @@
   <h1>Niklas Weber</h1>
   <p>Systems Programming · 42 Heilbronn · Go Enthusiast</p>
 
-  [![Email](https://img.shields.io/badge/Email-niklasweber610%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:niklasweber610@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-contact%40nweber.me-black?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@nweber.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-niklas--weber-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-weber-488576329/)
   [![42 Heilbronn](https://img.shields.io/badge/School-42%20Heilbronn-black?style=flat-square)](https://www.42heilbronn.de)
   ![Visitors](https://komarev.com/ghpvc/?username=nweber23&color=000000&style=flat-square&label=visitors)
@@ -57,14 +57,7 @@ Currently working on
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nweber23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nweber23&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
----
 
 ## Outside of Code
 
