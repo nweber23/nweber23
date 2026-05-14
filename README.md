@@ -1,70 +1,84 @@
 <div align="center">
-  <h1>Niklas Weber</h1>
-  <p>Systems Programming · 42 Heilbronn · Go Enthusiast</p>
 
-  [![Email](https://img.shields.io/badge/Email-contact%40nweber.me-black?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@nweber.me)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-niklas--weber-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-weber-488576329/)
-  [![42 Heilbronn](https://img.shields.io/badge/School-42%20Heilbronn-black?style=flat-square)](https://www.42heilbronn.de)
-  ![Visitors](https://komarev.com/ghpvc/?username=nweber23&color=000000&style=flat-square&label=visitors)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=560&height=60&lines=Niklas+Weber" alt="Niklas Weber" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=1&pause=9999999&color=00C4A1&center=true&vCenter=true&repeat=false&width=560&height=28&lines=Systems+Programmer+%E2%80%94+Go+%2F+C+%2F+C%2B%2B" alt="Systems Programmer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=560&height=24&lines=goroutines+%C2%B7+channels+%C2%B7+runtime+scheduler;distributed+systems+%C2%B7+consensus+%C2%B7+failure+modes;performance+profiling+%C2%B7+benchmarking;database+internals+%C2%B7+storage+engines" alt="focus areas" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/contact@nweber.me-0d1117?style=for-the-badge&logo=maildotru&logoColor=00C4A1)](mailto:contact@nweber.me)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00C4A1)](https://linkedin.com/in/niklas-weber-488576329/)
+&nbsp;
+[![42 Heilbronn](https://img.shields.io/badge/42%20Heilbronn-0d1117?style=for-the-badge&logo=42&logoColor=00C4A1)](https://42heilbronn.de)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=nweber23&style=for-the-badge&color=0d1117&label=VIEWS)
+
 </div>
 
----
-
-I'm a systems programming student at **42 Heilbronn**, currently going deep on **Go** — concurrency patterns, distributed systems, and performance profiling. I care about understanding how things work at the lowest level and writing code that is fast, clear, and intentional.
-
-> "The best way to learn is to build, break, and rebuild."
-
----
-
-## Focus
+<br/>
 
 ```
-Currently working on
-├── Go concurrency — goroutines, channels, the runtime scheduler
-├── Distributed systems patterns and architecture
-├── Performance optimization and profiling
-└── Database internals and caching strategies
+╔═══════════════════════════════════════════════════════════════╗
+║  I care about how the machine works — from the scheduler      ║
+║  up to the API. I write intentional code, profile before      ║
+║  I optimize, and break things on purpose to understand them.  ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
----
+<br/>
 
-## Tech Stack
+## focus
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go Concurrency](https://img.shields.io/badge/Go%20Concurrency-0d1117?style=for-the-badge&logoColor=00C4A1)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0d1117?style=for-the-badge&logoColor=00C4A1)
+![Performance Engineering](https://img.shields.io/badge/Performance%20Engineering-0d1117?style=for-the-badge&logoColor=00C4A1)
+![Database Internals](https://img.shields.io/badge/Database%20Internals-0d1117?style=for-the-badge&logoColor=00C4A1)
 
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-### Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
+<br/>
 
----
+## stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,c,cpp,python,ts,js,java&theme=dark&perline=7" alt="languages" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,react,nodejs&theme=dark&perline=7" alt="tools" />
+
+</div>
+
+<br/>
 
 
 
-## Outside of Code
+<details>
+<summary><b>beyond the terminal</b></summary>
+<br/>
 
-FC Bayern Munich supporter and member. Automotive technology keeps me curious about what precision engineering looks like beyond software.
+**FC Bayern München** - Supporter and club member for years. The Bundesliga, the Champions League. All of it.
+
+**Automotive engineering** - The thing that pulls me out of software. Mechanical systems built to micron tolerances, where nothing is wasted and everything has a reason. Precision that predates programming by a century.
+
+</details>
+
+<br/>
 
 ---
 
 <div align="center">
-  <sub>Open to collaboration on systems, Go, or performance-focused projects — feel free to reach out.</sub>
+
+<sub>open to collaboration on systems · go · performance-focused projects</sub>
+
+<br/>
+
+<a href="mailto:contact@nweber.me"><img src="https://img.shields.io/badge/get%20in%20touch-00C4A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+
 </div>
