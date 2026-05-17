@@ -51,7 +51,8 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,react,nodejs,vite&theme=dark&perline=8" alt="tools" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,postgres,redis,nodejs&theme=dark&perline=7" alt="tools" />
+<img src="https://skillicons.dev/icons?i=pnpm,vite,react,tailwindcss,html,nginx&theme=dark&perline=7" alt="tools" />
 
 </div>
 
