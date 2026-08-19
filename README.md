@@ -44,16 +44,12 @@
 <br/>
 
 ## stack
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=go,c,cpp,python,ts,js,java&theme=dark&perline=7" alt="languages" />
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postgres,redis,nodejs&theme=dark&perline=7" alt="tools" />
 <img src="https://skillicons.dev/icons?i=pnpm,vite,react,tailwindcss,html,nginx,electron&theme=dark&perline=7" alt="tools" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=7" alt="ml" />
 </div>
 
 <br/>
