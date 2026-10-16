@@ -37,7 +37,7 @@ Go concurrency · Distributed systems · Performance engineering · Database int
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postgres,redis,nodejs&theme=dark&perline=7" alt="tools" />
 <img src="https://skillicons.dev/icons?i=pnpm,vite,react,tailwindcss,html,nginx,electron&theme=dark&perline=7" alt="tools" />
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=7" alt="ml" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=7" alt="ml" />
 
 </div>
 
