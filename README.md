@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=560&height=58&lines=Niklas+Weber" alt="Niklas Weber" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1&pause=9999999&color=00C4A1&center=true&vCenter=true&repeat=false&width=560&height=26&lines=Systems+Programmer+%E2%80%94+Go+%2F+C+%2F+C%2B%2B" alt="Systems Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1&pause=9999999&color=00C4A1&center=true&vCenter=true&repeat=false&width=560&height=26&lines=Systems+Programmer+%E2%80%94+Go+%2F+C+%2F+C%2B%2B+%2F+Python" alt="Systems Programmer" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=666666&center=true&vCenter=true&width=560&height=22&lines=goroutines+%C2%B7+channels+%C2%B7+runtime+scheduler;distributed+systems+%C2%B7+consensus+%C2%B7+failure+modes;performance+profiling+%C2%B7+benchmarking;database+internals+%C2%B7+storage+engines" alt="focus areas" />
 
 <br/>
